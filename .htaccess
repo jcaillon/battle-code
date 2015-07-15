@@ -1,0 +1,23 @@
+RewriteEngine on
+
+RewriteRule ^$ php/index.php [L]
+
+# redirect to the client
+RewriteRule ^[^.?]+852456.*$ client.html [L]
+
+# redirect to gameSaves.php (capture query in %1)
+RewriteCond %{QUERY_STRING} (.*)
+RewriteRule ^gameSaves([\w]*)$ php/controllers/gameSaves.php?%1 [L]
+
+# redirect to BackEndController.php (capture query in %1)
+RewriteCond %{QUERY_STRING} (.*)
+RewriteRule ^([\w]*)$ php/controllers/BackEndController.php?action=$1&%1 [L]
+
+# Rewrite /foo/bar to /foo/bar.php
+RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+
+# NOTE! FOR APACHE ON WINDOWS: Add [NC] to RewriteCond like this:
+# RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$" [NC]
+
+# Règles de réécriture d'URL :
+# RewriteRule ^calendrier-(\w+)-(\d+)-(\d+)-(\d+).html$   /calendrier.php?user=$1&day=$2&month=$3&year=$4

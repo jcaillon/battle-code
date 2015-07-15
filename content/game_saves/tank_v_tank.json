@@ -1,0 +1,152 @@
+﻿http://172.27.50.169/battle/worldState?gameId=467148393&round=0&teamId=CAT0&teamToken=QMTOVWZJLS1IJFHLUMQC&_=1432906360545
+{  
+   "gameId":"467148393",
+   "gameStatus":"STARTED",
+   "round":1,
+   "teamIdToLifePoint":{  
+      "CAT1":150,
+      "CAT0":150
+   },
+   "teamIdToRoundDead":{  
+      "CAT1":0,
+      "CAT0":0
+   },
+   "teamIdToActions":{  
+      "CAT1":[  
+         {  
+            "id":45936,
+            "gameId":"467148393",
+            "round":1,
+            "sourceTeamId":"CAT1",
+            "targetTeamId":"CAT0",
+            "nbPoint":5,
+            "status":"REGISTERED"
+         }
+      ]
+   }
+}
+http://172.27.50.169/battle/teamAction?t_CAT1=5&gameId=467148393&round=1&teamId=CAT0&teamToken=QMTOVWZJLS1IJFHLUMQC&_=1432906360546
+http://172.27.50.169/battle/worldState?gameId=467148393&round=1&teamId=CAT0&teamToken=QMTOVWZJLS1IJFHLUMQC&_=1432906360547
+{  
+   "gameId":"467148393",
+   "gameStatus":"STARTED",
+   "round":1,
+   "teamIdToLifePoint":{  
+      "CAT1":150,
+      "CAT0":150
+   },
+   "teamIdToRoundDead":{  
+      "CAT1":0,
+      "CAT0":0
+   },
+   "teamIdToActions":{  
+      "CAT1":[  
+         {  
+            "id":45936,
+            "gameId":"467148393",
+            "round":1,
+            "sourceTeamId":"CAT1",
+            "targetTeamId":"CAT0",
+            "nbPoint":5,
+            "status":"REGISTERED"
+         }
+      ],
+      "CAT0":[  
+         {  
+            "id":45937,
+            "gameId":"467148393",
+            "round":1,
+            "sourceTeamId":"CAT0",
+            "targetTeamId":"CAT1",
+            "nbPoint":5,
+            "status":"REGISTERED"
+         }
+      ]
+   }
+}
+http://172.27.50.169/battle/worldState?gameId=467148393&round=1&teamId=CAT0&teamToken=QMTOVWZJLS1IJFHLUMQC&_=1432906360551
+{  
+   "gameId":"467148393",
+   "gameStatus":"STARTED",
+   "round":2,
+   "teamIdToLifePoint":{  
+      "CAT1":145,
+      "CAT0":145
+   },
+   "teamIdToRoundDead":{  
+      "CAT1":0,
+      "CAT0":0
+   },
+   "teamIdToActions":{  
+      "CAT1":[  
+         {  
+            "id":45938,
+            "gameId":"467148393",
+            "round":2,
+            "sourceTeamId":"CAT1",
+            "targetTeamId":"CAT0",
+            "nbPoint":5,
+            "status":"REGISTERED"
+         },
+         {  
+            "id":45936,
+            "gameId":"467148393",
+            "round":1,
+            "sourceTeamId":"CAT1",
+            "targetTeamId":"CAT0",
+            "nbPoint":5,
+            "status":"APPLIED"
+         }
+      ],
+      "CAT0":[  
+         {  
+            "id":45937,
+            "gameId":"467148393",
+            "round":1,
+            "sourceTeamId":"CAT0",
+            "targetTeamId":"CAT1",
+            "nbPoint":5,
+            "status":"APPLIED"
+         }
+      ]
+   }
+}
+http://172.27.50.169/battle/teamAction?t_CAT1=5&gameId=467148393&round=2&teamId=CAT0&teamToken=QMTOVWZJLS1IJFHLUMQC&_=1432906360552
+http://172.27.50.169/battle/worldState?gameId=467148393&round=2&teamId=CAT0&teamToken=QMTOVWZJLS1IJFHLUMQC&_=1432906360553
+{  
+   "gameId":"467148393",
+   "gameStatus":"STARTED",
+   "round":3,
+   "teamIdToLifePoint":{  
+      "CAT1":140,
+      "CAT0":140
+   },
+   "teamIdToRoundDead":{  
+      "CAT1":0,
+      "CAT0":0
+   },
+   "teamIdToActions":{  
+      "CAT1":[  
+         {  
+            "id":45938,
+            "gameId":"467148393",
+            "round":2,
+            "sourceTeamId":"CAT1",
+            "targetTeamId":"CAT0",
+            "nbPoint":5,
+            "status":"APPLIED"
+         }
+      ],
+      "CAT0":[  
+         {  
+            "id":45939,
+            "gameId":"467148393",
+            "round":2,
+            "sourceTeamId":"CAT0",
+            "targetTeamId":"CAT1",
+            "nbPoint":5,
+            "status":"APPLIED"
+         }
+      ]
+   }
+}

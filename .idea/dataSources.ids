@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - battle@localhost" uuid="30facfa0-44e0-4042-a9a0-5fcb3562874e">
+    <database-info product="MySQL" version="5.6.24" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.34 ( Revision: jess.balint@oracle.com-20141014163213-wqbwpf1ok2kvo1om )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="battle"/>
+    <table name="action" schema="" catalog="battle" type="TABLE">
+      <column name="gameId" sqlType="BIGINT UNSIGNED" precision="20" scale="0" nullable="true" jdbcType="-5"/>
+      <column name="round" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="sourceTeamId" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="targetTeamId" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="nbPA" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="statusStr" sqlType="VARCHAR" precision="20" scale="0" nullable="true" jdbcType="12"/>
+      <column name="actionId" sqlType="BIGINT UNSIGNED" precision="20" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <primary-key name="PRIMARY" columns="actionId"/>
+      <foreign-key name="action_ibfk_1" columns="gameId" ref-table="game" ref-schema="" ref-catalog="battle" ref-columns="gameId" update-rule="3" delete-rule="3" deferrability="2"/>
+      <index name="actionId" unique="true" columns="actionId"/>
+      <index name="unique_actionId" unique="true" columns="actionId"/>
+      <index name="sourceTeamId_gameId_round_index" unique="false" columns="sourceTeamId,gameId,round"/>
+    </table>
+    <table name="game" schema="" catalog="battle" type="TABLE">
+      <column name="gameId" sqlType="BIGINT UNSIGNED" precision="20" scale="0" nullable="false" jdbcType="-5" autoIncrement="true"/>
+      <column name="gameToken" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
+      <column name="creationTime" sqlType="DATETIME" precision="19" scale="0" nullable="false" jdbcType="93"/>
+      <column name="statusStr" sqlType="VARCHAR" precision="10" scale="0" nullable="true" jdbcType="12"/>
+      <column name="round" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="lastRoundTime" sqlType="DATETIME" precision="19" scale="0" nullable="false" jdbcType="93"/>
+      <column name="roundtime" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="NQ=="/>
+      <column name="nbTeam" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MA=="/>
+      <primary-key name="PRIMARY" columns="gameId"/>
+      <exported-key name="action_ibfk_1" table="action" schema="" catalog="battle" columns="gameId"/>
+      <exported-key name="teamingame_ibfk_1" table="teamingame" schema="" catalog="battle" columns="gameId"/>
+      <index name="gameId" unique="true" columns="gameId"/>
+    </table>
+    <table name="team" schema="" catalog="battle" type="TABLE">
+      <column name="teamId" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="teamToken" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="teamId"/>
+      <index name="teamId_index" unique="false" columns="teamId"/>
+    </table>
+    <table name="teamingame" schema="" catalog="battle" type="TABLE">
+      <column name="teamId" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="gameId" sqlType="BIGINT UNSIGNED" precision="20" scale="0" nullable="false" jdbcType="-5" def="MA=="/>
+      <column name="profileStr" sqlType="VARCHAR" precision="10" scale="0" nullable="true" jdbcType="12"/>
+      <column name="lifePoint" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MTAw"/>
+      <column name="roundDead" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <primary-key name="PRIMARY" columns="teamId,gameId"/>
+      <foreign-key name="teamingame_ibfk_1" columns="gameId" ref-table="game" ref-schema="" ref-catalog="battle" ref-columns="gameId" update-rule="0" delete-rule="0" deferrability="2"/>
+      <index name="teamId_gameId_index" unique="false" columns="teamId,gameId"/>
+    </table>
+  </data-source>
+</component>

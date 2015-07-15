@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - battle@localhost" uuid="30facfa0-44e0-4042-a9a0-5fcb3562874e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>battle.*</schema-pattern>
+      <default-schemas>battle.*</default-schemas>
+    </data-source>
+  </component>
+</project>

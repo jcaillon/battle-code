@@ -1,0 +1,701 @@
+{
+  "game": {
+    "gameId": "107148990",
+    "gameToken": "E2IFCSKMGPWENAM55VW4",
+    "nbTeam": 3,
+    "statusNb": 0,
+    "iAmIn": true,
+    "round": 7,
+    "team": {
+      "CAT0": {
+        "teamId": "CAT0",
+        "id": 0,
+        "color": 0,
+        "profileNb": 1,
+        "profile": "Tank",
+        "profilLP": 150,
+        "profilPA": 5,
+        "roundDead": 0,
+        "biggestThreat": [
+          "CAT1"
+        ],
+        "favouriteVictim": [
+          "CAT2"
+        ],
+        "curRound": {},
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 150,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 11,
+              "CAT1": 2
+            },
+            "actionsOut": {
+              "CAT0": 4,
+              "CAT2": 1,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 13,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 137,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 4,
+              "CAT1": 7
+            },
+            "actionsOut": {
+              "CAT0": 0,
+              "CAT2": 5,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 11,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 126,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 5,
+              "CAT1": 9
+            },
+            "actionsOut": {
+              "CAT0": 0,
+              "CAT2": 5,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 14,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 112,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 8,
+              "CAT1": 8
+            },
+            "actionsOut": {
+              "CAT0": 0,
+              "CAT2": 5,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 16,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 96,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 2,
+              "CAT1": 8
+            },
+            "actionsOut": {
+              "CAT0": 0,
+              "CAT2": 5,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 10,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 86,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 2,
+              "CAT1": 5
+            },
+            "actionsOut": {
+              "CAT0": 0,
+              "CAT2": 5,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 7,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 79,
+        "actionsIn": {
+          "CAT0": 0,
+          "CAT2": 32,
+          "CAT1": 39
+        },
+        "actionsOut": {
+          "CAT0": 4,
+          "CAT2": 26,
+          "CAT1": 0
+        },
+        "ranking": 1,
+        "totalPenalties": 0,
+        "totalActionsOut": 30,
+        "totalActionsIn": 71,
+        "totalActionsSelf": 2,
+        "totalWastedPA": 0
+      },
+      "CAT2": {
+        "teamId": "CAT2",
+        "id": 1,
+        "color": 1,
+        "profileNb": 3,
+        "profile": "Assassin",
+        "profilLP": 50,
+        "profilPA": 20,
+        "roundDead": 0,
+        "biggestThreat": [
+          "CAT0"
+        ],
+        "favouriteVictim": [
+          "CAT1"
+        ],
+        "curRound": {},
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 50,
+            "actionsIn": {
+              "CAT0": 1,
+              "CAT2": 0,
+              "CAT1": 8
+            },
+            "actionsOut": {
+              "CAT0": 11,
+              "CAT2": 0,
+              "CAT1": 9
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 20,
+            "nbActionsIn": 9,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 41,
+            "actionsIn": {
+              "CAT0": 5,
+              "CAT2": 0,
+              "CAT1": 3
+            },
+            "actionsOut": {
+              "CAT0": 4,
+              "CAT2": 0,
+              "CAT1": 16
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 20,
+            "nbActionsIn": 8,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 33,
+            "actionsIn": {
+              "CAT0": 5,
+              "CAT2": 0,
+              "CAT1": 1
+            },
+            "actionsOut": {
+              "CAT0": 5,
+              "CAT2": 0,
+              "CAT1": 15
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 20,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 27,
+            "actionsIn": {
+              "CAT0": 5,
+              "CAT2": 0,
+              "CAT1": 2
+            },
+            "actionsOut": {
+              "CAT0": 8,
+              "CAT2": 0,
+              "CAT1": 12
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 20,
+            "nbActionsIn": 7,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 20,
+            "actionsIn": {
+              "CAT0": 5,
+              "CAT2": 0,
+              "CAT1": 2
+            },
+            "actionsOut": {
+              "CAT0": 2,
+              "CAT2": 0,
+              "CAT1": 18
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 20,
+            "nbActionsIn": 7,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 13,
+            "actionsIn": {
+              "CAT0": 5,
+              "CAT2": 0,
+              "CAT1": 5
+            },
+            "actionsOut": {
+              "CAT0": 2,
+              "CAT2": 0,
+              "CAT1": 18
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 20,
+            "nbActionsIn": 10,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 3,
+        "actionsIn": {
+          "CAT0": 26,
+          "CAT2": 0,
+          "CAT1": 21
+        },
+        "actionsOut": {
+          "CAT0": 32,
+          "CAT2": 0,
+          "CAT1": 88
+        },
+        "ranking": 3,
+        "totalPenalties": 0,
+        "totalActionsOut": 120,
+        "totalActionsIn": 47,
+        "totalActionsSelf": 0,
+        "totalWastedPA": 0
+      },
+      "CAT1": {
+        "teamId": "CAT1",
+        "id": 2,
+        "color": 2,
+        "profileNb": 2,
+        "profile": "Normal",
+        "profilLP": 100,
+        "profilPA": 10,
+        "roundDead": 0,
+        "biggestThreat": [
+          "CAT2"
+        ],
+        "favouriteVictim": [
+          "CAT0"
+        ],
+        "curRound": {},
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 100,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 9,
+              "CAT1": 0
+            },
+            "actionsOut": {
+              "CAT0": 2,
+              "CAT2": 8,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 10,
+            "nbActionsIn": 9,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 91,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 16,
+              "CAT1": 0
+            },
+            "actionsOut": {
+              "CAT0": 7,
+              "CAT2": 3,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 10,
+            "nbActionsIn": 16,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 75,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 15,
+              "CAT1": 0
+            },
+            "actionsOut": {
+              "CAT0": 9,
+              "CAT2": 1,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 10,
+            "nbActionsIn": 15,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 60,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 12,
+              "CAT1": 0
+            },
+            "actionsOut": {
+              "CAT0": 8,
+              "CAT2": 2,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 10,
+            "nbActionsIn": 12,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 48,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 18,
+              "CAT1": 0
+            },
+            "actionsOut": {
+              "CAT0": 8,
+              "CAT2": 2,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 10,
+            "nbActionsIn": 18,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 30,
+            "actionsIn": {
+              "CAT0": 0,
+              "CAT2": 18,
+              "CAT1": 0
+            },
+            "actionsOut": {
+              "CAT0": 5,
+              "CAT2": 5,
+              "CAT1": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 10,
+            "nbActionsIn": 18,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 12,
+        "actionsIn": {
+          "CAT0": 0,
+          "CAT2": 88,
+          "CAT1": 0
+        },
+        "actionsOut": {
+          "CAT0": 39,
+          "CAT2": 21,
+          "CAT1": 0
+        },
+        "ranking": 2,
+        "totalPenalties": 0,
+        "totalActionsOut": 60,
+        "totalActionsIn": 88,
+        "totalActionsSelf": 0,
+        "totalWastedPA": 0
+      }
+    },
+    "rankArray": [
+      {
+        "teamId": "CAT0",
+        "ranking": 1
+      },
+      {
+        "teamId": "CAT1",
+        "ranking": 2
+      },
+      {
+        "teamId": "CAT2",
+        "ranking": 3
+      }
+    ],
+    "teamsAlive": [
+      "CAT0",
+      "CAT2",
+      "CAT1"
+    ],
+    "criticalHp": 20
+  },
+  "chartConfig": {
+    "options": {
+      "colors": [
+        "#CF7D1D",
+        "#459108",
+        "#0292C3",
+        "#9A479E",
+        "#D7230F",
+        "#7cb5ec",
+        "#434348",
+        "#90ed7d",
+        "#f7a35c",
+        "#8085e9",
+        "#f15c80",
+        "#e4d354",
+        "#2b908f",
+        "#f45b5b",
+        "#91e8e1"
+      ],
+      "chart": {
+        "animation": {
+          "duration": 1500
+        },
+        "height": 250,
+        "margin": [
+          10,
+          5,
+          20,
+          5
+        ],
+        "spacing": [
+          0,
+          2,
+          20,
+          2
+        ],
+        "type": "spline",
+        "backgroundColor": null
+      },
+      "credits": {
+        "enabled": false
+      },
+      "legend": {
+        "itemStyle": {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        "itemHoverStyle": {
+          "color": "#CCCCCC"
+        },
+        "itemHiddenStyle": {
+          "color": "#DDDDDD"
+        },
+        "align": "center",
+        "verticalAlign": "top"
+      },
+      "title": {
+        "align": "left",
+        "style": {
+          "color": "#FFFFFF",
+          "font-size": "19px"
+        }
+      },
+      "xAxis": {
+        "gridLineWidth": 0,
+        "labels": {
+          "enabled": false
+        },
+        "lineWidth": 0,
+        "minorGridLineWidth": 0,
+        "minorTickLength": 0,
+        "tickLength": 0,
+        "tickWidth": 0,
+        "title": {}
+      },
+      "yAxis": {
+        "gridLineWidth": 0,
+        "labels": {
+          "enabled": false
+        },
+        "lineWidth": 0,
+        "minorGridLineWidth": 0,
+        "minorTickLength": 0,
+        "tickLength": 0,
+        "tickWidth": 0,
+        "title": {},
+        "min": 0,
+        "plotLines": [
+          {
+            "color": "#FF0000",
+            "width": 1,
+            "dashStyle": "Dot",
+            "value": 20,
+            "label": {
+              "text": "Critical (20 HP)",
+              "style": {
+                "color": "#FF0000",
+                "fontWeight": "normal"
+              }
+            }
+          },
+          {
+            "color": "#FFFFFF",
+            "width": 1,
+            "dashStyle": "Dot",
+            "value": 0,
+            "label": {
+              "text": "Game over",
+              "style": {
+                "color": "#FFFFFF",
+                "fontWeight": "normal"
+              }
+            }
+          }
+        ]
+      },
+      "plotOptions": {
+        "spline": {
+          "lineWidth": 2,
+          "pointInterval": 1,
+          "pointStart": 0,
+          "marker": {
+            "radius": 4,
+            "symbol": "circle"
+          },
+          "stickyTracking": false
+        }
+      }
+    },
+    "series": [
+      {
+        "name": "CAT0",
+        "color": "#CF7D1D",
+        "data": [
+          150,
+          137,
+          126,
+          112,
+          96,
+          86,
+          79
+        ],
+        "dataLabels": {
+          "color": "#CF7D1D",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-94"
+      },
+      {
+        "name": "CAT2",
+        "color": "#459108",
+        "data": [
+          50,
+          41,
+          33,
+          27,
+          20,
+          13,
+          3
+        ],
+        "dataLabels": {
+          "color": "#459108",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-95"
+      },
+      {
+        "name": "CAT1",
+        "color": "#0292C3",
+        "data": [
+          100,
+          91,
+          75,
+          60,
+          48,
+          30,
+          12
+        ],
+        "dataLabels": {
+          "color": "#0292C3",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-96"
+      }
+    ]
+  }
+}

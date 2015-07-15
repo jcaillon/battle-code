@@ -1,0 +1,2011 @@
+{
+  "game": {
+    "gameId": "80",
+    "gameToken": "30.05.15",
+    "nbTeam": 3,
+    "statusNb": 0,
+    "iAmIn": true,
+    "round": 27,
+    "team": {
+      "SIAS_TEAMT1": {
+        "teamId": "SIAS_TEAMT1",
+        "id": 0,
+        "color": 0,
+        "profileNb": 1,
+        "profile": "Tank",
+        "profilLP": 150,
+        "profilPA": 5,
+        "roundDead": 0,
+        "biggestThreat": [
+          "CA"
+        ],
+        "favouriteVictim": [
+          "CA"
+        ],
+        "regRound": {
+          "round": 0,
+          "lifePoint": 170,
+          "actionsIn": {
+            "SIAS_TEAMT1": 0,
+            "CA": 0,
+            "SIAS_TEAMT2": 0
+          },
+          "actionsOut": {
+            "SIAS_TEAMT1": 0,
+            "CA": 0,
+            "SIAS_TEAMT2": 0
+          },
+          "nbPenalties": 0,
+          "nbActionsOut": 0,
+          "nbActionsIn": 0,
+          "nbActionsSelf": 0,
+          "nbWastedPA": 5
+        },
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 150,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 150,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 152,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 154,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 156,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 158,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 7,
+            "lifePoint": 160,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 8,
+            "lifePoint": 162,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 9,
+            "lifePoint": 164,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 10,
+            "lifePoint": 166,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 11,
+            "lifePoint": 168,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 12,
+            "lifePoint": 170,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 13,
+            "lifePoint": 172,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 14,
+            "lifePoint": 174,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 15,
+            "lifePoint": 176,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 16,
+            "lifePoint": 178,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 17,
+            "lifePoint": 180,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 18,
+            "lifePoint": 182,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 19,
+            "lifePoint": 184,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 20,
+            "lifePoint": 186,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 21,
+            "lifePoint": 188,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 22,
+            "lifePoint": 190,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 23,
+            "lifePoint": 192,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 24,
+            "lifePoint": 194,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 25,
+            "lifePoint": 196,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 4,
+              "CA": 0,
+              "SIAS_TEAMT2": 1
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 2,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 26,
+            "lifePoint": 198,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 27,
+            "lifePoint": 193,
+            "actionsIn": {
+              "SIAS_TEAMT1": 20,
+              "CA": 3,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 25,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 25,
+            "nbActionsIn": 23,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 170,
+        "actionsIn": {
+          "SIAS_TEAMT1": 20,
+          "CA": 8,
+          "SIAS_TEAMT2": 0
+        },
+        "actionsOut": {
+          "SIAS_TEAMT1": 96,
+          "CA": 30,
+          "SIAS_TEAMT2": 29
+        },
+        "ranking": 1,
+        "totalPenalties": 0,
+        "totalActionsOut": 155,
+        "totalActionsIn": 28,
+        "totalActionsSelf": 48,
+        "totalWastedPA": 0
+      },
+      "CA": {
+        "teamId": "CA",
+        "id": 1,
+        "color": 1,
+        "profileNb": 1,
+        "profile": "Tank",
+        "profilLP": 150,
+        "profilPA": 5,
+        "roundDead": 28,
+        "biggestThreat": [
+          "SIAS_TEAMT2"
+        ],
+        "favouriteVictim": [
+          "SIAS_TEAMT2"
+        ],
+        "curRound": {
+          "round": 0,
+          "lifePoint": 0,
+          "actionsIn": {
+            "SIAS_TEAMT1": 0,
+            "CA": 0,
+            "SIAS_TEAMT2": 0
+          },
+          "actionsOut": {
+            "SIAS_TEAMT1": 0,
+            "CA": 0,
+            "SIAS_TEAMT2": 0
+          },
+          "nbPenalties": 0,
+          "nbActionsOut": 0,
+          "nbActionsIn": 0,
+          "nbActionsSelf": 0,
+          "nbWastedPA": 5
+        },
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 150,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 145,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 2,
+              "SIAS_TEAMT2": 3
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 1,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 141,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 136,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 131,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 126,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 7,
+            "lifePoint": 121,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 8,
+            "lifePoint": 116,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 9,
+            "lifePoint": 111,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 10,
+            "lifePoint": 106,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 11,
+            "lifePoint": 101,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 12,
+            "lifePoint": 96,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 13,
+            "lifePoint": 91,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 14,
+            "lifePoint": 86,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 15,
+            "lifePoint": 81,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 16,
+            "lifePoint": 76,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 17,
+            "lifePoint": 71,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 18,
+            "lifePoint": 66,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 19,
+            "lifePoint": 61,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 20,
+            "lifePoint": 56,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 21,
+            "lifePoint": 51,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 22,
+            "lifePoint": 46,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 23,
+            "lifePoint": 41,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 24,
+            "lifePoint": 36,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 25,
+            "lifePoint": 31,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 26,
+            "lifePoint": 26,
+            "actionsIn": {
+              "SIAS_TEAMT1": 5,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 5,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 27,
+            "lifePoint": 21,
+            "actionsIn": {
+              "SIAS_TEAMT1": 25,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 3,
+              "CA": 2,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 25,
+            "nbActionsSelf": 1,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 0,
+        "actionsIn": {
+          "SIAS_TEAMT1": 30,
+          "CA": 0,
+          "SIAS_TEAMT2": 125
+        },
+        "actionsOut": {
+          "SIAS_TEAMT1": 8,
+          "CA": 4,
+          "SIAS_TEAMT2": 123
+        },
+        "ranking": 2,
+        "totalPenalties": 0,
+        "totalActionsOut": 135,
+        "totalActionsIn": 155,
+        "totalActionsSelf": 2,
+        "totalWastedPA": 0
+      },
+      "SIAS_TEAMT2": {
+        "teamId": "SIAS_TEAMT2",
+        "id": 2,
+        "color": 2,
+        "profileNb": 1,
+        "profile": "Tank",
+        "profilLP": 150,
+        "profilPA": 5,
+        "roundDead": 26,
+        "biggestThreat": [
+          "CA"
+        ],
+        "favouriteVictim": [
+          "CA"
+        ],
+        "curRound": {
+          "round": 0,
+          "lifePoint": 0,
+          "actionsIn": {
+            "SIAS_TEAMT1": 0,
+            "CA": 0,
+            "SIAS_TEAMT2": 0
+          },
+          "actionsOut": {
+            "SIAS_TEAMT1": 0,
+            "CA": 0,
+            "SIAS_TEAMT2": 0
+          },
+          "nbPenalties": 0,
+          "nbActionsOut": 0,
+          "nbActionsIn": 0,
+          "nbActionsSelf": 0,
+          "nbWastedPA": 5
+        },
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 150,
+            "actionsIn": {
+              "SIAS_TEAMT1": 5,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 10,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 140,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 3,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 4,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 136,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 130,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 124,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 118,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 7,
+            "lifePoint": 112,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 8,
+            "lifePoint": 106,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 9,
+            "lifePoint": 100,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 10,
+            "lifePoint": 94,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 11,
+            "lifePoint": 88,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 12,
+            "lifePoint": 82,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 13,
+            "lifePoint": 76,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 14,
+            "lifePoint": 70,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 15,
+            "lifePoint": 64,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 16,
+            "lifePoint": 58,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 17,
+            "lifePoint": 52,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 18,
+            "lifePoint": 46,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 19,
+            "lifePoint": 40,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 20,
+            "lifePoint": 34,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 21,
+            "lifePoint": 28,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 22,
+            "lifePoint": 22,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 23,
+            "lifePoint": 16,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 24,
+            "lifePoint": 10,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 25,
+            "lifePoint": 4,
+            "actionsIn": {
+              "SIAS_TEAMT1": 1,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 5,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 6,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 26,
+            "lifePoint": 0,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 0,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 27,
+            "lifePoint": 0,
+            "actionsIn": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "actionsOut": {
+              "SIAS_TEAMT1": 0,
+              "CA": 0,
+              "SIAS_TEAMT2": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 0,
+            "nbActionsIn": 0,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 0,
+        "actionsIn": {
+          "SIAS_TEAMT1": 29,
+          "CA": 123,
+          "SIAS_TEAMT2": 0
+        },
+        "actionsOut": {
+          "SIAS_TEAMT1": 0,
+          "CA": 125,
+          "SIAS_TEAMT2": 0
+        },
+        "ranking": 3,
+        "totalPenalties": 0,
+        "totalActionsOut": 125,
+        "totalActionsIn": 152,
+        "totalActionsSelf": 0,
+        "totalWastedPA": 0
+      }
+    },
+    "rankArray": [
+      {
+        "teamId": "SIAS_TEAMT1",
+        "ranking": 1
+      },
+      {
+        "teamId": "CA",
+        "ranking": 2
+      },
+      {
+        "teamId": "SIAS_TEAMT2",
+        "ranking": 3
+      }
+    ],
+    "teamsAlive": [
+      "SIAS_TEAMT1"
+    ],
+    "criticalHp": 20
+  },
+  "chartConfig": {
+    "options": {
+      "colors": [
+        "#CF7D1D",
+        "#459108",
+        "#0292C3",
+        "#9A479E",
+        "#D7230F",
+        "#7cb5ec",
+        "#434348",
+        "#90ed7d",
+        "#f7a35c",
+        "#8085e9",
+        "#f15c80",
+        "#e4d354",
+        "#2b908f",
+        "#f45b5b",
+        "#91e8e1"
+      ],
+      "chart": {
+        "animation": {
+          "duration": 1500
+        },
+        "height": 250,
+        "margin": [
+          10,
+          5,
+          20,
+          5
+        ],
+        "spacing": [
+          0,
+          2,
+          20,
+          2
+        ],
+        "type": "spline",
+        "backgroundColor": null
+      },
+      "credits": {
+        "enabled": false
+      },
+      "legend": {
+        "itemStyle": {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        "itemHoverStyle": {
+          "color": "#CCCCCC"
+        },
+        "itemHiddenStyle": {
+          "color": "#DDDDDD"
+        },
+        "align": "center",
+        "verticalAlign": "top"
+      },
+      "title": {
+        "align": "left",
+        "style": {
+          "color": "#FFFFFF",
+          "font-size": "19px"
+        }
+      },
+      "xAxis": {
+        "gridLineWidth": 0,
+        "labels": {
+          "enabled": false
+        },
+        "lineWidth": 0,
+        "minorGridLineWidth": 0,
+        "minorTickLength": 0,
+        "tickLength": 0,
+        "tickWidth": 0,
+        "title": {}
+      },
+      "yAxis": {
+        "gridLineWidth": 0,
+        "labels": {
+          "enabled": false
+        },
+        "lineWidth": 0,
+        "minorGridLineWidth": 0,
+        "minorTickLength": 0,
+        "tickLength": 0,
+        "tickWidth": 0,
+        "title": {},
+        "min": 0,
+        "plotLines": [
+          {
+            "color": "#FF0000",
+            "width": 1,
+            "dashStyle": "Dot",
+            "value": 20,
+            "label": {
+              "text": "Critical (20 HP)",
+              "style": {
+                "color": "#FF0000",
+                "fontWeight": "normal"
+              }
+            }
+          },
+          {
+            "color": "#FFFFFF",
+            "width": 1,
+            "dashStyle": "Dot",
+            "value": 0,
+            "label": {
+              "text": "Game over",
+              "style": {
+                "color": "#FFFFFF",
+                "fontWeight": "normal"
+              }
+            }
+          }
+        ]
+      },
+      "plotOptions": {
+        "spline": {
+          "lineWidth": 2,
+          "pointInterval": 1,
+          "pointStart": 0,
+          "marker": {
+            "radius": 4,
+            "symbol": "circle"
+          },
+          "stickyTracking": false
+        }
+      }
+    },
+    "series": [
+      {
+        "name": "SIAS_TEAMT1",
+        "color": "#CF7D1D",
+        "data": [
+          150,
+          150,
+          152,
+          154,
+          156,
+          158,
+          160,
+          162,
+          164,
+          166,
+          168,
+          170,
+          172,
+          174,
+          176,
+          178,
+          180,
+          182,
+          184,
+          186,
+          188,
+          190,
+          192,
+          194,
+          196,
+          198,
+          193,
+          170
+        ],
+        "dataLabels": {
+          "color": "#CF7D1D",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-1314"
+      },
+      {
+        "name": "CA",
+        "color": "#459108",
+        "data": [
+          150,
+          145,
+          141,
+          136,
+          131,
+          126,
+          121,
+          116,
+          111,
+          106,
+          101,
+          96,
+          91,
+          86,
+          81,
+          76,
+          71,
+          66,
+          61,
+          56,
+          51,
+          46,
+          41,
+          36,
+          31,
+          26,
+          21,
+          0
+        ],
+        "dataLabels": {
+          "color": "#459108",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-1315"
+      },
+      {
+        "name": "SIAS_TEAMT2",
+        "color": "#0292C3",
+        "data": [
+          150,
+          140,
+          136,
+          130,
+          124,
+          118,
+          112,
+          106,
+          100,
+          94,
+          88,
+          82,
+          76,
+          70,
+          64,
+          58,
+          52,
+          46,
+          40,
+          34,
+          28,
+          22,
+          16,
+          10,
+          4,
+          0
+        ],
+        "dataLabels": {
+          "color": "#0292C3",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-1316"
+      }
+    ]
+  }
+}

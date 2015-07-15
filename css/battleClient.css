@@ -1,0 +1,140 @@
+/*body {*/
+    /*background-color: #2B3E50;*/
+/*}*/
+
+/* used for game ranking */
+.no-bot-space {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+/* general info on the game  */
+.label-bg-focus {
+    background-color: #007046;
+}
+
+.btn-default {
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+.btn-bg-1 {
+     background-color: #375070;
+     font-family: 'Palanquin Dark', sans-serif;
+ }
+.btn-bg-1:hover,
+.btn-bg-1:focus,
+.btn-bg-1.focus,
+.btn-bg-1:active,
+.btn-bg-1.active,
+.open > .dropdown-toggle.btn-bg-1 {
+    background-color: #1a4270;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+.btn-bg-2 {
+    background-color: #216670;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+.btn-bg-2:hover,
+.btn-bg-2:focus,
+.btn-bg-2.focus,
+.btn-bg-2:active,
+.btn-bg-2.active,
+.open > .dropdown-toggle.btn-bg-2 {
+    background-color: #0e5270;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+.btn-bg-3 {
+    background-color: #503770;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+.btn-bg-3:hover,
+.btn-bg-3:focus,
+.btn-bg-3.focus,
+.btn-bg-3:active,
+.btn-bg-3.active,
+.open > .dropdown-toggle.btn-bg-3 {
+    background-color: #4d2d70;
+    font-family: 'Palanquin Dark', sans-serif;
+}
+
+
+h4 {
+    margin-top: 0px;
+}
+
+.table tbody>tr>td {
+    vertical-align: middle;
+}
+
+.progress {
+    margin: 0px;
+}
+
+.left-space {
+    margin-left: 25px;
+}
+
+.span-space {
+    margin-right: 5px;
+}
+
+.round-number {
+    padding-right: 10px;
+}
+
+.first-column {
+    width: 10px;
+}
+
+.table-odd {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.table-even {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.mybadge {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.buttons-div {
+    margin-bottom: 7px;
+}
+
+.info-div {
+    font-size: 120%;
+    margin-bottom: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    padding-bottom: 12px;
+}
+
+.h2-end-game {
+    padding: 15px;
+}
+
+.div-end-game {
+    margin: 20px;
+}
+
+
+/* ANGULAR CLOAK */
+.container {
+    opacity: 0;
+    -moz-transition: opacity 0.8s ease;
+    -o-transition: opacity 0.8s ease;
+    -webkit-transition: opacity 0.8s ease;
+    transition: opacity 0.8s ease;
+}
+
+.set-visible {
+    opacity: 1;
+}

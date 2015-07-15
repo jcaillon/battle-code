@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Super secret password is...?"
+AuthUserFile ".htpasswd"
+Require valid-user

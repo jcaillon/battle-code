@@ -1,0 +1,60 @@
+/**
+ * @author: Julien Caillon
+ */
+
+/* Global Styles */
+body {
+	padding-top: 50px;
+	/* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.bodycontent {
+	margin: 5px 20px;
+}
+
+.header {
+ 	background-color: #222222;
+	color: rgba(255, 255, 255, 0.8);
+	/*margin-top: 5px;*/
+	padding: 0px;
+	position: relative;
+	text-align: right;
+}
+
+/* Footer Styles */
+.footer {
+	margin: 10px 0px;
+	padding: 10px;
+	background-color: #222222;
+   color: #ffffff;
+}
+
+/* blockquote { */
+/* 	white-space: pre; */
+/* } */
+
+h2 {
+    font-weight: bold;
+    color: #e38d13;
+}
+
+
+/* NAVBAR */
+.navbaricon {
+	-webkit-transform: scaleX(2) scaleY(2);
+	-moz-transform: scaleX(2) scaleY(2);
+}
+
+.userdropdown {
+	padding: 10px;
+	min-width: 200px;
+}
+
+.addspace {
+	margin-bottom: 5px;
+}
+
+.panel-heading {
+    font-style: normal;
+    font-weight: bold;
+}

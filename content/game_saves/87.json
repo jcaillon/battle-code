@@ -1,0 +1,1382 @@
+{
+  "game": {
+    "gameId": "87",
+    "gameToken": "03.06.15",
+    "nbTeam": 2,
+    "statusNb": 0,
+    "iAmIn": true,
+    "round": 30,
+    "team": {
+      "CA": {
+        "teamId": "CA",
+        "id": 0,
+        "color": 0,
+        "profileNb": 1,
+        "profile": "Tank",
+        "profilLP": 150,
+        "profilPA": 5,
+        "roundDead": 31,
+        "biggestThreat": [
+          "CAT0"
+        ],
+        "favouriteVictim": [
+          "CAT0"
+        ],
+        "regRound": {
+          "lifePoint": 0,
+          "actionsIn": {
+            "CA": 0,
+            "CAT0": 0
+          },
+          "actionsOut": {
+            "CA": 0,
+            "CAT0": 0
+          },
+          "nbActionsOut": 0,
+          "nbActionsIn": 0,
+          "nbActionsSelf": 0,
+          "nbWastedPA": 5,
+          "iGotIsActs": false
+        },
+        "curRound": {},
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 150,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 145,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 140,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 135,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 130,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 125,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 7,
+            "lifePoint": 120,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 8,
+            "lifePoint": 115,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 9,
+            "lifePoint": 110,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 10,
+            "lifePoint": 105,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 11,
+            "lifePoint": 100,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 12,
+            "lifePoint": 95,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 13,
+            "lifePoint": 90,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 14,
+            "lifePoint": 85,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 15,
+            "lifePoint": 80,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 16,
+            "lifePoint": 75,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 17,
+            "lifePoint": 70,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 18,
+            "lifePoint": 65,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 19,
+            "lifePoint": 60,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 20,
+            "lifePoint": 55,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 21,
+            "lifePoint": 50,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 22,
+            "lifePoint": 45,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 23,
+            "lifePoint": 40,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 24,
+            "lifePoint": 35,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 25,
+            "lifePoint": 30,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 26,
+            "lifePoint": 25,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 27,
+            "lifePoint": 20,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 28,
+            "lifePoint": 15,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 29,
+            "lifePoint": 10,
+            "actionsIn": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 5
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 30,
+            "lifePoint": 5,
+            "actionsIn": {
+              "CA": 4,
+              "CAT0": 5
+            },
+            "actionsOut": {
+              "CA": 0,
+              "CAT0": 9
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 9,
+            "nbActionsIn": 9,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 0,
+        "actionsIn": {
+          "CA": 4,
+          "CAT0": 150
+        },
+        "actionsOut": {
+          "CA": 0,
+          "CAT0": 154
+        },
+        "ranking": 1,
+        "totalPenalties": 0,
+        "totalActionsOut": 154,
+        "totalActionsIn": 154,
+        "totalActionsSelf": 0,
+        "totalWastedPA": 0
+      },
+      "CAT0": {
+        "teamId": "CAT0",
+        "id": 1,
+        "color": 1,
+        "profileNb": 1,
+        "profile": "Tank",
+        "profilLP": 150,
+        "profilPA": 5,
+        "roundDead": 31,
+        "biggestThreat": [
+          "CA"
+        ],
+        "favouriteVictim": [
+          "CA"
+        ],
+        "regRound": {
+          "lifePoint": 0,
+          "actionsIn": {
+            "CA": 0,
+            "CAT0": 0
+          },
+          "actionsOut": {
+            "CA": 0,
+            "CAT0": 0
+          },
+          "nbActionsOut": 0,
+          "nbActionsIn": 0,
+          "nbActionsSelf": 0,
+          "nbWastedPA": 5,
+          "iGotIsActs": false
+        },
+        "curRound": {},
+        "rounds": [
+          {
+            "round": 1,
+            "lifePoint": 150,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 2,
+            "lifePoint": 145,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 3,
+            "lifePoint": 140,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 4,
+            "lifePoint": 135,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 5,
+            "lifePoint": 130,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 6,
+            "lifePoint": 125,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 7,
+            "lifePoint": 120,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 8,
+            "lifePoint": 115,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 9,
+            "lifePoint": 110,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 10,
+            "lifePoint": 105,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 11,
+            "lifePoint": 100,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 12,
+            "lifePoint": 95,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 13,
+            "lifePoint": 90,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 14,
+            "lifePoint": 85,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 15,
+            "lifePoint": 80,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 16,
+            "lifePoint": 75,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 17,
+            "lifePoint": 70,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 18,
+            "lifePoint": 65,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 19,
+            "lifePoint": 60,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 20,
+            "lifePoint": 55,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 21,
+            "lifePoint": 50,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 22,
+            "lifePoint": 45,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 23,
+            "lifePoint": 40,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 24,
+            "lifePoint": 35,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 25,
+            "lifePoint": 30,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 26,
+            "lifePoint": 25,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 27,
+            "lifePoint": 20,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 28,
+            "lifePoint": 15,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 29,
+            "lifePoint": 10,
+            "actionsIn": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 5,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          },
+          {
+            "round": 30,
+            "lifePoint": 5,
+            "actionsIn": {
+              "CA": 9,
+              "CAT0": 0
+            },
+            "actionsOut": {
+              "CA": 5,
+              "CAT0": 0
+            },
+            "nbPenalties": 0,
+            "nbActionsOut": 5,
+            "nbActionsIn": 9,
+            "nbActionsSelf": 0,
+            "nbWastedPA": 0
+          }
+        ],
+        "lifePoint": 0,
+        "actionsIn": {
+          "CA": 154,
+          "CAT0": 0
+        },
+        "actionsOut": {
+          "CA": 150,
+          "CAT0": 0
+        },
+        "ranking": 1,
+        "totalPenalties": 0,
+        "totalActionsOut": 150,
+        "totalActionsIn": 154,
+        "totalActionsSelf": 0,
+        "totalWastedPA": 0
+      }
+    },
+    "rankArray": [
+      {
+        "teamId": "CA",
+        "ranking": 1
+      },
+      {
+        "teamId": "CAT0",
+        "ranking": 1
+      }
+    ],
+    "teamsAlive": [],
+    "criticalHp": 20
+  },
+  "chartConfig": {
+    "options": {
+      "colors": [
+        "#CF7D1D",
+        "#459108",
+        "#0292C3",
+        "#9A479E",
+        "#D7230F",
+        "#7cb5ec",
+        "#434348",
+        "#90ed7d",
+        "#f7a35c",
+        "#8085e9",
+        "#f15c80",
+        "#e4d354",
+        "#2b908f",
+        "#f45b5b",
+        "#91e8e1"
+      ],
+      "chart": {
+        "animation": {
+          "duration": 1500
+        },
+        "height": 250,
+        "margin": [
+          10,
+          5,
+          20,
+          5
+        ],
+        "spacing": [
+          0,
+          2,
+          20,
+          2
+        ],
+        "type": "spline",
+        "backgroundColor": null
+      },
+      "credits": {
+        "enabled": false
+      },
+      "legend": {
+        "itemStyle": {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        "itemHoverStyle": {
+          "color": "#CCCCCC"
+        },
+        "itemHiddenStyle": {
+          "color": "#DDDDDD"
+        },
+        "align": "center",
+        "verticalAlign": "top"
+      },
+      "title": {
+        "align": "left",
+        "style": {
+          "color": "#FFFFFF",
+          "font-size": "19px"
+        }
+      },
+      "xAxis": {
+        "gridLineWidth": 0,
+        "labels": {
+          "enabled": false
+        },
+        "lineWidth": 0,
+        "minorGridLineWidth": 0,
+        "minorTickLength": 0,
+        "tickLength": 0,
+        "tickWidth": 0,
+        "title": {}
+      },
+      "yAxis": {
+        "gridLineWidth": 0,
+        "labels": {
+          "enabled": false
+        },
+        "lineWidth": 0,
+        "minorGridLineWidth": 0,
+        "minorTickLength": 0,
+        "tickLength": 0,
+        "tickWidth": 0,
+        "title": {},
+        "min": 0,
+        "plotLines": [
+          {
+            "color": "#FF0000",
+            "width": 1,
+            "dashStyle": "Dot",
+            "value": 20,
+            "label": {
+              "text": "Critical (20 HP)",
+              "style": {
+                "color": "#FF0000",
+                "fontWeight": "normal"
+              }
+            }
+          },
+          {
+            "color": "#FFFFFF",
+            "width": 1,
+            "dashStyle": "Dot",
+            "value": 0,
+            "label": {
+              "text": "Game over",
+              "style": {
+                "color": "#FFFFFF",
+                "fontWeight": "normal"
+              }
+            }
+          }
+        ]
+      },
+      "plotOptions": {
+        "spline": {
+          "lineWidth": 2,
+          "pointInterval": 1,
+          "pointStart": 0,
+          "marker": {
+            "radius": 4,
+            "symbol": "circle"
+          },
+          "stickyTracking": false
+        }
+      }
+    },
+    "series": [
+      {
+        "name": "CA",
+        "color": "#CF7D1D",
+        "data": [
+          150,
+          145,
+          140,
+          135,
+          130,
+          125,
+          120,
+          115,
+          110,
+          105,
+          100,
+          95,
+          90,
+          85,
+          80,
+          75,
+          70,
+          65,
+          60,
+          55,
+          50,
+          45,
+          40,
+          35,
+          30,
+          25,
+          20,
+          15,
+          10,
+          5,
+          0
+        ],
+        "dataLabels": {
+          "color": "#CF7D1D",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-22"
+      },
+      {
+        "name": "CAT0",
+        "color": "#459108",
+        "data": [
+          150,
+          145,
+          140,
+          135,
+          130,
+          125,
+          120,
+          115,
+          110,
+          105,
+          100,
+          95,
+          90,
+          85,
+          80,
+          75,
+          70,
+          65,
+          60,
+          55,
+          50,
+          45,
+          40,
+          35,
+          30,
+          25,
+          20,
+          15,
+          10,
+          5,
+          0
+        ],
+        "dataLabels": {
+          "color": "#459108",
+          "enabled": true,
+          "format": "{y} HP",
+          "style": {
+            "color": "contrast",
+            "fontSize": "11px",
+            "fontWeight": "bold",
+            "textShadow": "0 0 3x contrast, 0 0 2px contrast"
+          }
+        },
+        "dashStyle": "Solid",
+        "showInLegend": true,
+        "pointStart": 1,
+        "pointInterval": 1,
+        "id": "series-23"
+      }
+    ]
+  }
+}
